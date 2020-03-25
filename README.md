@@ -1,4 +1,4 @@
-# CS133 HW2: JSON Parser
+# JSON Parser
 
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format. 
